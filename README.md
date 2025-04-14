@@ -1,5 +1,4 @@
 
-markdown
 # 🏥 AI-Powered Medical Record Management System
 
 A secure, AI-enabled platform for managing **Electronic Medical Records (EMRs)**. This system helps healthcare professionals and patients gain real-time insights from medical histories, track health trends, and get predictions using AI and NLP — all without Docker or AWS dependencies.
