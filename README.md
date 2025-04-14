@@ -1,13 +1,13 @@
 Got it! Here's the cleaned-up `README.md` for your **AI-Powered Medical Record Management System** — **WITHOUT Docker and AWS** — fully formatted and ready to paste into your GitHub repo.
 
----
+
 
 ```markdown
 # 🏥 AI-Powered Medical Record Management System
 
 A secure, AI-enabled platform for managing **Electronic Medical Records (EMRs)**. This system helps healthcare professionals and patients gain real-time insights from medical histories, track health trends, and get predictions using AI and NLP — all without Docker or AWS dependencies.
 
----
+
 
 ## 🚀 Features
 
@@ -17,7 +17,6 @@ A secure, AI-enabled platform for managing **Electronic Medical Records (EMRs)**
 - 🧠 **Natural Language Processing (NLP)** to extract key medical information from **doctor notes**
 - 📧 Automated **email alerts** for abnormal test results or health risks
 
----
 
 ## ⚙️ Tech Stack
 
@@ -49,7 +48,7 @@ A secure, AI-enabled platform for managing **Electronic Medical Records (EMRs)**
 - 📝 Reduced **manual data entry** by **50%** via NLP of doctor notes  
 - ⏱️ Saved **20+ hours/week** for doctors in administrative tasks  
 
----
+
 
 ## 📂 Folder Structure
 
