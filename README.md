@@ -1,8 +1,5 @@
-Got it! Here's the cleaned-up `README.md` for your **AI-Powered Medical Record Management System** — **WITHOUT Docker and AWS** — fully formatted and ready to paste into your GitHub repo.
 
-
-
-```markdown
+markdown
 # 🏥 AI-Powered Medical Record Management System
 
 A secure, AI-enabled platform for managing **Electronic Medical Records (EMRs)**. This system helps healthcare professionals and patients gain real-time insights from medical histories, track health trends, and get predictions using AI and NLP — all without Docker or AWS dependencies.
@@ -52,7 +49,7 @@ A secure, AI-enabled platform for managing **Electronic Medical Records (EMRs)**
 
 ## 📂 Folder Structure
 
-```
+
 ai-medical-records/
 ├── client/              # React frontend
 │   └── src/
@@ -71,7 +68,7 @@ ai-medical-records/
 ├── uploads/             # Local document storage
 ├── .env
 ├── README.md
-```
+
 
 ---
 
